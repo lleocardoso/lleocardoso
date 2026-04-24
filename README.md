@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="left">Olá, tudo bem? Eu sou o Leo 👋</h1>
 
-<!--
-**lleocardoso/lleocardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<blockquote>
+<p align="left"> Apaixonado por tecnologia, em busca da primeira oportunidade na área.</p>
+</blockquote>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">👨🏻‍💻 Desenvolvedor em formação.<br>🧑🏻‍🎓 Estudante de Sistemas de Informação pela Fundação Herminio Ometto<br>🧠 Atualmente estou me aprofundando em Java e SQL/MongoDB</p>
+
+###
+
+<div align="left">
+  <img height="200" src="https://tenor.com/view/%E3%81%8B%E3%81%BF%E5%A4%AA-gif-6611489068243536971A.gif"  />
+</div>
